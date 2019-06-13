@@ -1,0 +1,9 @@
+.search-wrapper {
+  margin: 20px;
+  text-align: center;
+}
+
+.ant-input-search {
+  width: 500px !important;
+  height: 50px;
+}
